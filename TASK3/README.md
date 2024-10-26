@@ -1,5 +1,6 @@
 # Twitter Airline Sentiment Analysis
-
+## Dataset
+We used the Twitter Airline dataset provided by Kaggle, can be accessed at the following link:  https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 ## Project Overview
 This project analyzes tweets about airlines to determine public sentiment. The main objectives include data cleaning, visualization, and building a sentiment classification model.
 

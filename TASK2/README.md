@@ -1,13 +1,13 @@
-Instacart Market Basket Analysis
+## Instacart Market Basket Analysis
 
-Project Description 
+#Project Description 
 
 This project performs Market Basket Analysis on the Instacart dataset to discover common product associations using Apriori algorithm. Association rules mined from the data can help in identifying frequently co-purchased products, aiding in inventory planning, product bundling, and targeted promotions.
 (https://www.kaggle.com/c/instacart-market-basket-analysis/data)
 
 
 
-Code Workflow
+#Code Workflow
 
 Merge and Pivot Data:
 

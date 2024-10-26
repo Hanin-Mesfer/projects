@@ -7,7 +7,7 @@ This project performs Market Basket Analysis on the Instacart dataset to discove
 
 
 
-#Code Workflow
+# Code Workflow
 
 Merge and Pivot Data:
 
